@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first git-hub project!
+This is a basic HTML project which contains information regarding few tasty food recipes.
